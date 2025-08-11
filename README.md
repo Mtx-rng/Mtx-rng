@@ -94,15 +94,13 @@
 ---
 ## 🌌 Sobre Mim
 
-```javascript
  
-  nome: Mtx-rng THERAC-25
-  area: Desenvolvimento,
-  hobbies: Programar,Jogar,Desenhar
-  curiosidade: Apaixonado por tecnologia
-  objetivo: Criar projetos inovadores e tornar ferramentas complexas em simples
+**🔧 nome:** Mtx-rng THERAC-25  
+**💻 área:** Desenvolvimento  
+**🎮 hobbies:** Programar, Jogar, Desenhar  
+**💡 curiosidade:** Apaixonado por tecnologia  
+**🚀 objetivo:** Criar projetos inovadores e tornar ferramentas complexas em simples
 
-```
 ---
 
 ### 🕳️ **Canais das Sombras**
@@ -111,7 +109,7 @@
   <a href="https://t.me/Therac25k" target="_blank" style="text-decoration:none; margin:0 8px;">
     <img src="https://img.shields.io/badge/Telegram-9d4edd?style=for-the-badge&logo=telegram&logoColor=121212" alt="Telegram" />
   </a>
-  <a href="https://www.tiktok.com/@mtx.rng" target="_blank" style="text-decoration:none; margin:0 8px;">
+  <a href="https://www.tiktok.com/@mrx.rng?_t=ZM-8ynPSvi5klc&_r=1" target="_blank" style="text-decoration:none; margin:0 8px;">
     <img src="https://img.shields.io/badge/TikTok-9d4edd?style=for-the-badge&logo=tiktok&logoColor=121212" alt="TikTok" />
   </a>
   <a href="https://discord.gg/iam_king" target="_blank" style="text-decoration:none; margin:0 8px;">
