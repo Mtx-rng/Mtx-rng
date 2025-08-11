@@ -95,13 +95,13 @@
 ## 🌌 Sobre Mim
 
 ```javascript
- {
-  nome: "Mtx-rng",
-  area: "Desenvolvimento",
-  hobbies: ["Programar", "Jogar", "Desenhar"],
-  curiosidade: "Apaixonado por tecnologia",
-  objetivo: "Criar projetos inovadores e tornar ferramentas complexas em simples"
-}
+ 
+  nome: Mtx-rng THERAC-25
+  area: Desenvolvimento,
+  hobbies: Programar,Jogar,Desenhar
+  curiosidade: Apaixonado por tecnologia
+  objetivo: Criar projetos inovadores e tornar ferramentas complexas em simples
+
 ```
 ---
 
