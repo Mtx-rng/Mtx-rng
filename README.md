@@ -62,12 +62,6 @@ Esperamos você lá! 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtx-rng&layout=compact&theme=radical&hide_border=true&bg_color=1A1B27&title_color=A100A1&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mtx-rng&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
-</p>
-
-
 <img src="https://komarev.com/ghpvc/?username=Mtx-rng&label=souls+that+were+lost%20here&color=9d4edd&style=flat" alt="Mtx-rng" />
 
 
