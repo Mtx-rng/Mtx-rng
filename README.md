@@ -46,10 +46,10 @@ Esperamos você lá! 🚀
 </p>
 
 ## 🚀 Featured Projects
-- **[ddos-killer]**  
-  _A tool to detect and neutralize DDoS attacks with precision._  
+- **[Zphisher]**  
+  _high accuracy phishing tool._  
   ![GitHub stars](https://img.shields.io/github/stars/Mtx-rng/ddos-killer?color=A100A1&style=flat-square)  
-  [🔗 View Project](https://github.com/Mtx-rng/ddos-killer)
+  [🔗 View Project](https://github.com/Mtx-rng/Zphisher)
 
 - **[VenomForge-v1]**  
   _A comprehensive toolkit for ethical hacking and penetration testing._  
