@@ -6,25 +6,6 @@
   <a href="https://t.me/Therac25k"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram"></a>
   <a href="https://www.tiktok.com/@mrx.rng?_t=ZM-8ynPSvi5klc&_r=1"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok" alt="TikTok"></a>
 </div
-# 📱 Grupo Exclusivo do WhatsApp
-
-Entre em  nosso **grupo exclusivo do WhatsApp**! 🎉
-
-Aqui você vai encontrar:  
-- Conteúdo exclusivo e atualizado  
-- Discussões e dicas interessantes  
-- Comunidade engajada e amigável  
-
-💬 **Entre no grupo clicando no link abaixo:**  
-[Entrar no Grupo](https://chat.whatsapp.com/GuWtafvdAzSAw1tWIzQLHQ)
-
-⚠️ **Aviso:**  
-- Mantenha o respeito entre os membros  
-- Evite spam e links externos não autorizados  
-- Siga as regras do grupo para uma experiência positiva  
-
-Esperamos você lá! 🚀
-
 
 ## 🌌 About Me
 -😴 I'm mtx-rng, an ethical hacker and developer mastering code.
