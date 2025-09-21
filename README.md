@@ -8,41 +8,6 @@
 </div
 
 ## 🌌 About Me
--😴 I'm mtx-rng, an ethical hacker and developer mastering code.
 
--🎮 I craft tools with lots of sleep and games to entertain some people out there.
-
--🌟 Currently working on scripts and exploring new tech challenges.
-
--💬 Ask me about ethical hacking, game strategies, or my latest projects!
-
--🇫🇷 Goal: to bring a smile to everyone who uses my tools.
-
-## 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/-Python-4B0082?style=flat-square&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/-Bash-4B0082?style=flat-square&logo=gnu-bash" alt="Bash" />
-  <img src="https://img.shields.io/badge/-Nmap-4B0082?style=flat-square&logo=nmap" alt="Nmap" />
-  <img src="https://img.shields.io/badge/-Termux-4B0082?style=flat-square&logo=android" alt="Termux" />
-</p>
-
-## 🚀 Featured Projects
-- **[Zphisher]**  
-  _high accuracy phishing tool._  
-  ![GitHub stars](https://img.shields.io/github/stars/Mtx-rng/ddos-killer?color=A100A1&style=flat-square)  
-  [🔗 View Project](https://github.com/Mtx-rng/Zphisher)
-
-- **[VenomForge-v1]**  
-  _A comprehensive toolkit for ethical hacking and penetration testing._  
-  ![GitHub stars](https://img.shields.io/github/stars/Mtx-rng/VenomForge-v1?color=A100A1&style=flat-square)  
-  [🔗 View Project](https://github.com/Mtx-rng/VenomForge-v1)
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mtx-rng&show_icons=true&theme=radical&hide_border=true&bg_color=1A1B27&title_color=A100A1&icon_color=A100A1&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtx-rng&layout=compact&theme=radical&hide_border=true&bg_color=1A1B27&title_color=A100A1&text_color=FFFFFF" alt="Top Languages" />
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Mtx-rng&label=souls+that+were+lost%20here&color=9d4edd&style=flat" alt="Mtx-rng" />
-
-
+        
+-😴 I'm Mtx-Rng,hacker and developer.
